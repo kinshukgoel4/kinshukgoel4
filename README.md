@@ -1,14 +1,14 @@
-## Hello folks, I am Kinshuk Goel! Great to see you here! 👋
+#@ Hello folks, I am Kinshuk Goel! Great to see you here! 👋
 
 ## 💫 About Me:
 🎓I am a 3rd-year Electronics and Computer Engineering student at SNIST.<br>
 🔭 I’m currently working as an FSD Intern @ Innomatics Research Labs, Event manager @ Geeky hub community.<br>
 👯 I am always on the lookout for exciting opportunities to collaborate on projects and events.<br>
-👩‍💻 I often code in python and javascript.<br>
-🌱 I’m currently learning the MERN stack<br>
-💻 My fields of interest are Full Stack Web Dev, Python-Dev, and Computer Vision.<br>
-💬 Ask me about code, projects, events, etc<br>
-⚡ Fun fact: I love playing video games such as FIFA.
+👩‍💻 My programming skills are centered around Python and JavaScript<br>
+🌱 I’m currently learning the MERN stack to enhance my FSD skills<br>
+💻 I am passionate about Python development, Full Stack Web Development, and Computer Vision.<br>
+💬 Ask me about code, projects, events or just want to chat, feel free to reach out to me<br>
+⚡ Fun fact: I love playing video games, especially FIFA.
 
 
 ## 🌐 Socials:
