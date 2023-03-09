@@ -57,9 +57,7 @@ OTHER:<br><br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo==Arduino&logoColor=white) 
 
 
-## 📊 GitHub Stats:[![][black-shield]][black]
-[black]: http://github.com/psf/black
-[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
+## 📊 GitHub Stats:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br>
