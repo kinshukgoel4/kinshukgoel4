@@ -69,11 +69,10 @@ OTHER:<br><br>
 
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kinshukgoel4&theme=dark&hide_border=true" /> <br>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kinshukgoel4&theme=dark&hide_border=true)<br/>
+
 
 
 ## 🏆 GitHub Trophies
