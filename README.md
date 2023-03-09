@@ -5,8 +5,8 @@ Hello folks! I am Kinshuk Goel, a 3rd-year Electronics and Computer engineering 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kinshukgoel4) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kinshukgoel04)
-[![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kinshukgoel4.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kinshukgoel4@gmail.com)
+[![Hashnode Badge](https://img.shields.io/badge/-@kinshukgoel4-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kinshukgoel4.hashnode.dev/)](https://kinshukgoel4.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-kinshukgoel4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kinshukgoel4@gmail.com)](mailto:kinshukgoel4@gmail.com)
 
 
 [![Kinshuk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kinshukgoel4&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
