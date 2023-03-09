@@ -1,7 +1,14 @@
-## Hi, I am Kinshuk! Great to see you here! 👋
+## Hello folks, I am Kinshuk Goel! Great to see you here! 👋
 
 ## 💫 About Me:
-Hello folks! I am Kinshuk Goel, a 3rd-year Electronics and Computer engineering student at SNIST.<br>🔭 I’m currently working as the core team member at Hackerabad, Event manager at the Geeky hub community.<br>👯 I’m looking to collaborate on projects, organize events, etc<br>👩‍💻  I often code in python and javascript.<br>🌱 I’m currently learning the MERN stack<br>💻My fields of interest are Full Stack Web Dev, Python-Dev, and Computer Vision.<br>💬 Ask me about code, projects, events, etc<br>⚡ Fun fact: I love playing video games such as FIFA.
+🎓I am a 3rd-year Electronics and Computer Engineering student at SNIST.<br>
+🔭 I’m currently working as an FSD Intern @ Innomatics Research Labs, Event manager @ Geeky hub community.<br>
+👯 I am always on the lookout for exciting opportunities to collaborate on projects and events.<br>
+👩‍💻 I often code in python and javascript.<br>
+🌱 I’m currently learning the MERN stack<br>
+💻 My fields of interest are Full Stack Web Dev, Python-Dev, and Computer Vision.<br>
+💬 Ask me about code, projects, events, etc<br>
+⚡ Fun fact: I love playing video games such as FIFA.
 
 
 ## 🌐 Socials:
@@ -27,7 +34,7 @@ LANGUAGES:<br><br>
 <br><br>
 
 HOSTING/SaaS:<br><br>
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -36,7 +43,9 @@ HOSTING/SaaS:<br><br>
 
 FRAMEWORKS, PLATFORMS & LIBRARIES:<br><br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 <br><br>
 
@@ -44,7 +53,8 @@ DATABASES:<br><br>
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) <br><br>
 
 DESIGN:<br><br>
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo==figma) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo==Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 <br><br>
 
 ML/DL:<br><br>
@@ -53,20 +63,26 @@ ML/DL:<br><br>
 <br><br>
 
 OTHER:<br><br>
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo==Raspberry-Pi) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo==Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
 
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kinshukgoel4&theme=radical&hide_border=false" /> <br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kinshukgoel4&theme=dark&hide_border=true" /> <br>
 </p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kinshukgoel4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=kinshukgoel4&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kinshukgoel4&icon=5&color=0)](https://visitcount.itsvg.in)
