@@ -1,3 +1,5 @@
+## Hi, I am Kinshuk! Great to see you here! 👋
+
 ## 💫 About Me:
 Hello folks! I am Kinshuk Goel, a 3rd-year Electronics and Computer engineering student at SNIST.<br>🔭 I’m currently working as the core team member at Hackerabad, Event manager at the Geeky hub community.<br>👯 I’m looking to collaborate on projects, organize events, etc<br>👩‍💻  I often code in python and javascript.<br>🌱 I’m currently learning the MERN stack<br>💻My fields of interest are Full Stack Web Dev, Python-Dev, and Computer Vision.<br>💬 Ask me about code, projects, events, etc<br>⚡ Fun fact: I love playing video games such as FIFA.
 
