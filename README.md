@@ -69,9 +69,9 @@ OTHER:<br><br>
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api?username=kinshukgoel4&theme=merko&hide_border=true&include_all_commits=true&count_private=true) 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kinshukgoel4&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kinshukgoel4&theme=merko&hide_border=true)<br/>
 
 
 
@@ -84,4 +84,4 @@ OTHER:<br><br>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kinshukgoel4&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kinshukgoel4&icon=0&color=12)](https://visitcount.itsvg.in)
