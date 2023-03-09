@@ -1,4 +1,4 @@
-#@ Hello folks, I am Kinshuk Goel! Great to see you here! 👋
+## Hello folks, I am Kinshuk Goel! Great to see you here! 👋
 
 ## 💫 About Me:
 🎓I am a 3rd-year Electronics and Computer Engineering student at SNIST.<br>
