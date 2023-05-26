@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🎓I am a 3rd-year Electronics and Computer Engineering student at SNIST.<br>
-🔭 I’m currently working as an FSD Intern @ Innomatics Research Labs, Event manager @ Geeky hub community.<br>
+🔭 I’m currently working as an Contributor @GirlScript Summer of Code, Event manager @ Geeky hub community.<br>
 👯 I am always on the lookout for exciting opportunities to collaborate on projects and events.<br>
 👩‍💻 My programming skills are centered around Python and JavaScript<br>
 🌱 I’m currently learning the MERN stack to enhance my FSD skills<br>
